@@ -4,6 +4,6 @@ public class Halloween {
 
         System.out.println("Hello world!!");
 
-        System.out.println("Yay");
+        System.out.println("Yay.Happy Hellowen!");
     }
 }
